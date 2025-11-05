@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sandun Gunathilaka</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer | Python Enthusiast</h3>
-
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/wave.gif?raw=true" width="100px">
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandun2002&label=Profile%20views&color=0e75b6&style=flat" alt="Sandun2002" />
 </p>
 
+<br>
+
+<div align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -21,24 +26,28 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-<h3 align="center">My GitHub Statistics</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandun2002&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun2002&theme=dark&hide_border=false" />
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sandun2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
+<details align="center">
+  <summary><strong>Click to Expand My GitHub Statistics</strong></summary>
+  <br>
+  <p align="center">
+  <table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandun2002&theme=dark&show_icons=true&count_private=true" />
+    <br><br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun2002&theme=dark&hide_border=false" />
+  </td>
+  <td width="50%" align="center">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sandun2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+  </tr>
+  </table>
+  </p>
+</details>
 
 ---
 
@@ -65,32 +74,36 @@
 <h4 align="center">Languages</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark&perline=8" />
   </a>
 </p>
 
 <h4 align="center">Frontend & Backend</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,fastapi,strapi" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,fastapi,strapi&theme=dark&perline=8" />
   </a>
 </p>
 
 <h4 align="center">Databases</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark&perline=8" />
   </a>
 </p>
 
 <h4 align="center">Tools & Platforms</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,railway,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,railway,linux,vscode&theme=dark&perline=8" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/wave.gif?raw=true" width="100px">
+</p>
 
 <h3 align="center">Support Me</h3>
 <p align="center">
